@@ -1,5 +1,8 @@
 ## Skypey
-This project is follow along project from the book  [Understanding redux -1](https://thereduxjsbooks.com/). 
+This project is follow along project from the book  [Understanding redux](https://thereduxjsbooks.com/) -
+**Ohans Emmanuel**
+
+
 Its a part 1 of 3 series book. Topics are well structured and explained. Highly recommend for anyone with basic understanding of react. 
 
 ### project details
