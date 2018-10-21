@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285b70b5-65ec-49f7-bc58-2f5e2d842a2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/MessageInput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/MessageInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/typing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/constants/action-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/constants/action-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ChatWindow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChatWindow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ChatWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChatWindow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/activeUserId.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/activeUserId.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,49 +31,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="9" />
+          <entry key="gitignore" value="1" />
           <entry key="js" value="37" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="9" />
           <entry key="JavaScript" value="37" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="26" />
+          <entry key="gitignore" value="6" />
           <entry key="js" value="1542" />
+          <entry key="md" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="26" />
           <entry key="JavaScript" value="1542" />
+          <entry key="Markdown" value="75" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/ChatWindow.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/ChatWindow.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/actions/constants/action-types.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -157,14 +133,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/containers/Chat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="114">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="45" selection-start-column="45" selection-end-column="45" />
+                <folding>
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#35#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -228,6 +241,8 @@
         <option value="$PROJECT_DIR$/src/reducers/message.js" />
         <option value="$PROJECT_DIR$/src/reducers/typing.js" />
         <option value="$PROJECT_DIR$/src/containers/Chat.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -267,42 +282,6 @@
             <path>
               <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
               <item name="skypey" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skypey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skypey" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -428,20 +407,20 @@
       <workItem from="1540044860264" duration="341000" />
       <workItem from="1540045232837" duration="7103000" />
       <workItem from="1540054244093" duration="4894000" />
-      <workItem from="1540100992846" duration="7570000" />
+      <workItem from="1540100992846" duration="7872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25240000" />
+    <option name="totallyTimeSpent" value="25542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1252" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69966996" visible="true" weight="0.17465475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6977887" visible="true" weight="0.17465475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.30033004" side_tool="true" visible="true" weight="0.17465475" />
+      <window_info id="npm" order="2" sideWeight="0.3022113" side_tool="true" visible="true" weight="0.17465475" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -456,7 +435,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -509,9 +488,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.test.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -747,11 +723,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Chat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        <state relative-caret-position="114">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="45" selection-start-column="45" selection-end-column="45" />
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#35#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
