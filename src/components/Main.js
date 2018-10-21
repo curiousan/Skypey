@@ -1,5 +1,17 @@
 import React from 'react';
 import './Main.css';
-export  default ()=>{
-  return (<div className="main">This is Main </div>);
+import Empty from "../components/Empty";
+import ChatWindow from "../components/ChatWindow";
+
+export  default ({user, activeUserId})=>{
+
+  const renderMainContent = () => {
+    if (!activeUserId) {
+      return <Empty user={user} activeUserId={activeUserId} />;
+    } else {
+      return <ChatWindow activeUserId={activeUserId} />;
+    }
+  }
+  return <main className="main">{renderMainContent()}</main>;
 }
+
